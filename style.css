@@ -154,7 +154,7 @@ button{
     border: solid 2px;
 }
 
- .testimonials image{
+ .testimonials .image{
     position: absolute;
     top:250px;
     margin-left:100px;
@@ -182,7 +182,7 @@ button{
 
 .box p{
     font-size: 18px;
-    font-weight:520;
+    font-weight:500;
 }
 
 .icons i{
@@ -299,7 +299,7 @@ button{
 }
 
 #course .course-box{
-      color: 666666;
+      color: #666666;
       display:grid;
       grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
       grid-gap: 1rem;
@@ -334,7 +334,7 @@ button{
     padding-top:5px;
 }
 
-#course .courses .details .span{
+#course .courses .details span{
        color:whitesmoke;
        font-size:23px;
        padding-top:10px;
@@ -357,6 +357,7 @@ button{
     transform: scale(0.50);
     
 }
+
 
 
 
